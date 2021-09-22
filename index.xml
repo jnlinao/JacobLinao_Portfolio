@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacob Linao&#39;s Portfolio on Home</title>
+    <link>https://jnlinao.github.io/JacobLinao_Portfolio/</link>
+    <description>Recent content in Jacob Linao&#39;s Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://jnlinao.github.io/JacobLinao_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Price Valuation and the Prediction of Diamonds</title>
+      <link>https://jnlinao.github.io/JacobLinao_Portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jnlinao.github.io/JacobLinao_Portfolio/post/chapter-2/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title>Project I: Natural Language Processing Text Classification</title>
+      <link>https://jnlinao.github.io/JacobLinao_Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jnlinao.github.io/JacobLinao_Portfolio/post/chapter-1/</guid>
+      <description>Web scraped data from Yelp.com using Selenium and Beautiful Soup to retrieve 10,000+ rows of restaurant data Conducted descriptive and exploratory analytics to determine best course of action for analytics Developed complex preprocessing pipelines for textual review data such as PorterStemmer, tokenization, and vectorization Evaluated Logistic Regression and TFIDFVectorizer model performance for number of features and bi-grams vs tri-grams Used Latent Semantic Analysis to discover significant topic areas for both positive and negative sentiment Used final model to find Top 10 Correlated Words Positive/Negative Sentiment  Github Link</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jnlinao.github.io/JacobLinao_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jnlinao.github.io/JacobLinao_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms:
+   Platform URL    LinkedIn:| https://www.linkedin.com/feed/
+Github:| https://github.com/jnlinao
+Email:| jacob7141299@gmail.com
+Instagram:| https://www.instagram.com/jacoblinao/?hl=en</description>
+    </item>
+    
+  </channel>
+</rss>
